@@ -21,6 +21,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
  <a href="https://www.oracle.com/br/java/" target="_blank"> <img src="./icons/java.png" alt="java" width="40" height="40"/> </a>
+ <a href="https://www.mysql.com/" target="_blank"> <img src="./icons/mysql.png" alt="mySQL" width="40" height="40"/> </a>
+ <a href="https://www.microsoft.com/pt-br/sql-server/" target="_blank"> <img src="./icons/sqlserver.png" alt="sqlServer" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="./icons/git.png" alt="git" width="40" height="40"/> </a>
  <a href="https://www.w3.org/html/" target="_blank"> <img src="./icons/html.png" alt="html5" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./icons/css.png" alt="css3" width="40" height="40"/> </a>
