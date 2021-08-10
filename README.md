@@ -1,6 +1,8 @@
 <h1 align="center">Hello! I'm Paulo Uilian 👨‍💻☕</h1>
 <h3 align="center">I'm fascinated by programming languages.</h3>
 
+- 📖 I'm starting out in the "world" of programming. my main language is Java☕
+
 ***
 
 ![Paulo Uilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianBL99&theme=tokyonight&show_icons=true)
@@ -8,8 +10,6 @@
 ![Paulo Uilian's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WillianBL99&theme=tokyonight)
 
 ***
-
-- 📖 I'm starting out in the "world" of programming. my main language is Java☕
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
