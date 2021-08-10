@@ -1,7 +1,5 @@
 <h1 align="center">Hello! I'm Paulo Uilian 👨‍💻☕</h1>
 <h3 align="center">I'm fascinated by programming languages.</h3>
- ##   Here is a random joke that'll make you laugh!
- ![Jokes Card](https://readme-jokes.vercel.app/api)
 [![Paulo Uilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianBL99&theme=tokyonight&show_icons=true)](https://github.com/WillianBL99/github-readme-stats)
 
 - 📖 I'm starting out in the "world" of programming. my main language is Java☕
