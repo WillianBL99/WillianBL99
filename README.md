@@ -1,9 +1,9 @@
 <h1 align="center">Hello! I'm Paulo Uilian 👨‍💻☕</h1>
 <h3 align="center">I'm fascinated by programming languages.</h3>
-[![Paulo Uilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianBL99&theme=tokyonight&show_icons=true)](https://github.com/WillianBL99/github-readme-stats)
+![Paulo Uilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianBL99&theme=tokyonight&show_icons=true)
 
 - 📖 I'm starting out in the "world" of programming. my main language is Java☕
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/paulo-uilian-barros-lago-1b80b41b3" target="blank"><img align="center" src="./icons/linkedin.png" alt="paulouilian1b80b41b3" height="40" width="40" /></a>
