@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/paulo-uilian-barros-lago-1b80b41b3" target="blank"><img align="center" src="./icons/linkedin.png" alt="paulouilian1b80b41b3" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/paulo-uilian-1b80b41b3/" target="blank"><img align="center" src="./icons/linkedin.png" alt="paulouilian1b80b41b3" height="40" width="40" /></a>
 <a href="https://www.instagram.com/willianlago" target="blank"><img align="center" src="./icons/instagram.png" alt="willianlago" height="40" width="40" /></a>
 <a href="https://github.com/WillianBL99" target="blank"><img align="center" src="./icons/github.png" alt="willianlago" height="40" width="40" /></a>
 </p>
