@@ -1,8 +1,10 @@
-<h1 align="center">Hello! I'm Paulo Uilian 👨‍💻☕</h1>
+<h1 align="center">Hello! I'm Paulo Uilian 👨‍💻☕</h1> 
+
 <h3 align="center">I'm fascinated by programming languages.</h3>
 
 - 📖 I'm starting out in the "world" of programming. my main language is Java☕
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=WillianBL99)
 ***
 
 ![Paulo Uilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianBL99&theme=tokyonight&show_icons=true)
