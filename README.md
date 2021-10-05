@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Paulo Uilian 👨‍💻☕</h1> 
 
-<h3 align="center">I'm fascinated by programming languages.</h3>
+<h3 align="center">I'm fascinated by programming languages and interfaces designer.</h3>
 
 - 📖 I'm starting out in the "world" of programming. my main language is Java☕
 
