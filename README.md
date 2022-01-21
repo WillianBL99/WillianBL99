@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm fascinated by programming languages and interfaces designer.</h3>
 
-- 📖 I'm starting out in the "world" of programming. my main language is Java☕
+- 📖 Always in search of knowledge, I am currently studying web development. My first programming language is Java☕ with approximately 300 hours of studies and some projects with database implementation and agile technologies.
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=WillianBL99)
 ***
