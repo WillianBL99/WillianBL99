@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Meu nome é Paulo Uilian 👨‍💻☕</h1> 
 
-<h3 align="center">Tenho 23 anos, moro em Jequié/BA e sou facinado por linguagens de programação e interfaces.</h3>
+<h3 align="center">Tenho 23 anos, moro em Jequié/BA e sou fascinado por linguagens de programação e interfaces.</h3>
 
 - 📖 Sempre em busca de novos conhecimentos, depois de uma caminhada de umas 300horas na linguagem Java e desenvolvimento desktop, estou agora na jornada rumo ao densenvolvimento fullstack web🛠️💻.
 
