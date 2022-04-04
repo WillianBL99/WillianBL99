@@ -1,10 +1,11 @@
-<h1 align="center">Hello! I'm Paulo Uilian 👨‍💻☕</h1> 
+<h1 align="center">Olá! Meu nome é Paulo Uilian 👨‍💻☕</h1> 
 
-<h3 align="center">I'm fascinated by programming languages and interfaces designer.</h3>
+<h3 align="center">Tenho 23 anos, moro em Jequié/BA e sou facinado por linguagens de programação e interfaces.</h3>
 
-- 📖 Always in search of knowledge, I am currently studying web development. My first programming language is Java☕ with approximately 300 hours of studies and some projects with database implementation and agile technologies.
+- 📖 Sempre em busca de novos conhecimentos, depois de uma caminhada de umas 300horas na linguagem Java e desenvolvimento desktop, estou agora na jornada rumo ao densenvolvimento fullstack web🛠️💻.
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=WillianBL99)
+[![wakatime](https://wakatime.com/badge/user/ea37d403-453f-4319-bd0c-77e54bb1318a.svg)](https://wakatime.com/@ea37d403-453f-4319-bd0c-77e54bb1318a)
 ***
 
 ![Paulo Uilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianBL99&theme=tokyonight&show_icons=true)
@@ -13,14 +14,14 @@
 
 ***
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/paulo-uilian-1b80b41b3/" target="blank"><img align="center" src="./icons/linkedin.png" alt="paulouilian1b80b41b3" height="40" width="40" /></a>
 <a href="https://www.instagram.com/willianlago" target="blank"><img align="center" src="./icons/instagram.png" alt="willianlago" height="40" width="40" /></a>
 <a href="https://github.com/WillianBL99" target="blank"><img align="center" src="./icons/github.png" alt="willianlago" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left">  
  <a href="https://www.oracle.com/br/java/" target="_blank"> <img src="./icons/java.png" alt="java" width="40" height="40"/> </a>
  <a href="https://www.mysql.com/" target="_blank"> <img src="./icons/mysql.png" alt="mySQL" width="40" height="40"/> </a>
