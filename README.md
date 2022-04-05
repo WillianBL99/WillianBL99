@@ -8,9 +8,8 @@
 [![wakatime](https://wakatime.com/badge/user/ea37d403-453f-4319-bd0c-77e54bb1318a.svg)](https://wakatime.com/@ea37d403-453f-4319-bd0c-77e54bb1318a)
 ***
 
-![Paulo Uilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianBL99&theme=tokyonight&show_icons=true)
-
-![Paulo Uilian's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WillianBL99&theme=tokyonight)
+ <img height="230px" src="https://github-readme-stats.vercel.app/api?username=WillianBL99&theme=tokyonight&show_icons=true" alt="Paulo Uilian's GitHub stats"><img>
+ <img height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianBL99&theme=tokyonight" alt="Paulo Uilian's Stats" ><img>
 
 ***
 
