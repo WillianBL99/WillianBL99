@@ -29,6 +29,7 @@
  <a href="https://www.w3.org/html/" target="_blank"> <img src="./icons/html.png" alt="html5" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./icons/css.png" alt="css3" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./icons/js.png" alt="javascript" width="40" height="40"/> </a>
+ <a href="https://reactjs.org" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="reactjs" width="40" height="40"/> </a>
 </p>
 
 ***
