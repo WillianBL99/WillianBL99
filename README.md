@@ -5,11 +5,10 @@
 - 📖 Sempre em busca de novos conhecimentos, depois de uma caminhada de umas 300horas na linguagem Java e desenvolvimento desktop, estou agora na jornada rumo ao densenvolvimento fullstack web🛠️💻.
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=WillianBL99)
-[![wakatime](https://wakatime.com/badge/user/ea37d403-453f-4319-bd0c-77e54bb1318a.svg)](https://wakatime.com/@ea37d403-453f-4319-bd0c-77e54bb1318a)
 ***
 
- <img height="195px" src="https://github-readme-stats.vercel.app/api?username=WillianBL99&theme=tokyonight&show_icons=true" alt="Paulo Uilian's GitHub stats"><img>
- <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianBL99&theme=tokyonight" alt="Paulo Uilian's Stats" ><img>
+ <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api?username=WillianBL99&theme=tokyonight&show_icons=true" alt="Paulo Uilian's GitHub stats"><img>
+ <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=WillianBL99&theme=tokyonight" alt="Paulo Uilian's Stats" ><img>
 
 ***
 
