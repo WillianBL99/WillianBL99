@@ -1,10 +1,12 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=WillianBL99)
 <h1 align="center">Olá! Meu nome é Paulo Uilian 👨‍💻☕</h1> 
 
-<h3 align="center">Tenho 23 anos, moro em Jequié/BA e sou fascinado por linguagens de programação e interfaces.</h3>
+<h3 align="center">Tenho 23 anos, moro em Jequié/BA e sou fascinado pelo desenvolvimento de lógica de programação.</h3>
 
-- 📖 Sempre em busca de novos conhecimentos, depois de uma caminhada de umas 300horas na linguagem Java e desenvolvimento desktop, estou agora na jornada rumo ao densenvolvimento fullstack web🛠️💻.
+- 📖 Sempre buscando aprender mais sobre o mundo da programção, sou agora desenvolvedor web full-stack🛠️💻.
+[![wakatime](https://wakatime.com/badge/user/ea37d403-453f-4319-bd0c-77e54bb1318a.svg)](https://wakatime.com/@ea37d403-453f-4319-bd0c-77e54bb1318a)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=WillianBL99)
+
 ***
 
  <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api?username=WillianBL99&theme=tokyonight&show_icons=true" alt="Paulo Uilian's GitHub stats"><img>
