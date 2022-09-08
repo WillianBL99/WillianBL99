@@ -22,15 +22,20 @@
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
+<h4 align="left">Front-end:</h4>
+<p align="left">
+ <a href="https://www.w3.org/html/" target="_blank" alt="html5"> <img src="./icons/html.png" alt="html5" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/css/" target="_blank" alt="css3" > <img src="./icons/css.png" alt="css3" width="40" height="40"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" alt="javascript" > <img src="./icons/js.png" alt="javascript" width="40" height="40"/> </a>
+ <a href="https://reactjs.org" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="reactjs" width="40" height="40"/> </a>
+ 
+<h4 align="left">Back-end:</h4>
 <p align="left">  
  <a href="https://www.oracle.com/br/java/" target="_blank"> <img src="./icons/java.png" alt="java" width="40" height="40"/> </a>
  <a href="https://www.mysql.com/" target="_blank"> <img src="./icons/mysql.png" alt="mySQL" width="40" height="40"/> </a>
- <a href="https://www.microsoft.com/pt-br/sql-server/" target="_blank"> <img src="./icons/sqlserver.png" alt="sqlServer" width="40" height="40"/> </a>
+ <a href="https://www.microsoft.com/pt-br/sql-server/" target="_blank"> <img src="./icons/sqlserver.png" alt="sqlServer" width="40" height="40"/> </a> 
+ <a href="https://www.mongodb.com/" target="_blank"> <img src="./icons/sqlserver.png" alt="sqlServer" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="./icons/git.png" alt="git" width="40" height="40"/> </a>
- <a href="https://www.w3.org/html/" target="_blank"> <img src="./icons/html.png" alt="html5" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./icons/css.png" alt="css3" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./icons/js.png" alt="javascript" width="40" height="40"/> </a>
- <a href="https://reactjs.org" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="reactjs" width="40" height="40"/> </a>
 </p>
 
 ***
