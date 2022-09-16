@@ -29,6 +29,7 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" alt="javascript" > <img src="./icons/js.png" alt="javascript" width="40" height="40"/> </a>
  <a href="https://getbootstrap.com/" target="_blank" alt="bootstrap" > <img src="./icons/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
  <a href="https://reactjs.org" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="reactjs" width="40" height="40"/> </a>
+ <a href="https://www.cypress.io/" target="_blank"> <img src="./icons/cypress.png" alt="cypress" width="40" height="40"/> </a>
  
 <h4 align="left">Back-end:</h4>
 <p align="left">  
