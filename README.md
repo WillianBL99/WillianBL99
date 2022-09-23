@@ -17,7 +17,7 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/paulo-uilian/" target="blank" title="Linkedin"><img align="center" src="./icons/linkedin.png" height="40" width="40" /></a>
-<a href="paulouiliandev@gmai.com" target="black" title="Email"><img align="center" src="./icons/email.png" height="40" width="40" /></a>
+<a href="mailto:paulouiliandev@gmai.com" target="black" title="Email"><img align="center" src="./icons/email.png" height="40" width="40" /></a>
 <a href="https://github.com/WillianBL99" target="blank" title="GitHub"><img align="center" src="./icons/github.png" height="40" width="40" /></a>
 </p>
 
