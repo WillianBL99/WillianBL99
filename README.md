@@ -16,8 +16,9 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/paulo-uilian/" target="blank"><img align="center" src="./icons/linkedin.png" alt="paulouilian1b80b41b3" height="40" width="40" /></a>
-<a href="https://github.com/WillianBL99" target="blank"><img align="center" src="./icons/github.png" alt="willianlago" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/paulo-uilian/" target="blank" title="Linkedin"><img align="center" src="./icons/linkedin.png" height="40" width="40" /></a>
+<a href="paulouiliandev@gmai.com" target="black" title="Email"><img align="center" src="./icons/email.png" height="40" width="40" /></a>
+<a href="https://github.com/WillianBL99" target="blank" title="GitHub"><img align="center" src="./icons/github.png" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
@@ -32,17 +33,17 @@
  
 <h4 align="left">Back-end:</h4>
 <p align="left">  
- <a href="https://www.oracle.com/br/java/" target="_blank"> <img src="./icons/java.png" alt="java" width="40" height="40"/> </a>
+ <a href="https://www.nodejs.org" target="_blank"> <img src="./icons/node.png" alt="Node JS" width="40" height="40"/> </a>
+ <a href="https://www.typescriptlang.org/" target="_blank"> <img src="./icons/typescript.png" alt="TypeScript" width="40" height="40"/> </a>
+ <a href="https://www.docker.com/" target="_blank"> <img src="./icons/docker.png" alt="Docker" width="40" height="40"/> </a>
+ <a href="https://www.postgresql.org/" target="_blank"> <img src="./icons/postgre.png" alt="Pstgre SQL" width="40" height="40"/> </a>
  <a href="https://www.mysql.com/" target="_blank"> <img src="./icons/mysql.png" alt="mySQL" width="40" height="40"/> </a>
  <a href="https://www.microsoft.com/pt-br/sql-server/" target="_blank"> <img src="./icons/sqlserver.png" alt="sqlServer" width="40" height="40"/> </a> 
  <a href="https://www.mongodb.com/" target="_blank"> <img src="./icons/mongo.png" alt="Mongo DB" width="40" height="40"/> </a>
- <a href="https://www.postgresql.org/" target="_blank"> <img src="./icons/postgre.png" alt="Pstgre SQL" width="40" height="40"/> </a>
- <a href="https://www.docker.com/" target="_blank"> <img src="./icons/docker.png" alt="Docker" width="40" height="40"/> </a>
- <a href="https://www.heroku.com/" target="_blank"> <img src="./icons/heroku.png" alt="Heroku" width="40" height="40"/> </a>
+ <a href="https://www.oracle.com/br/java/" target="_blank"> <img src="./icons/java.png" alt="java" width="40" height="40"/> </a>
  <a href="https://aws.amazon.com" target="_blank"> <img src="./icons/aws.png" alt="AWS" width="40" height="40"/> </a>
+ <a href="https://www.heroku.com/" target="_blank"> <img src="./icons/heroku.png" alt="Heroku" width="40" height="40"/> </a>
  <a href="https://jestjs.io/pt-BR/" target="_blank"> <img src="./icons/jest.png" alt="Jest" width="40" height="40"/> </a>
- <a href="https://www.nodejs.org" target="_blank"> <img src="./icons/node.png" alt="Node JS" width="40" height="40"/> </a>
- <a href="https://www.typescriptlang.org/" target="_blank"> <img src="./icons/typescript.png" alt="TypeScript" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="./icons/git.png" alt="git" width="40" height="40"/> </a>
 </p>
 
