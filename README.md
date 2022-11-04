@@ -13,7 +13,7 @@
 ***
 
  <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api?username=WillianBL99&theme=tokyonight&show_icons=true" alt="Paulo Uilian's GitHub stats"><img>
- <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=WillianBL99&theme=tokyonight" alt="Paulo Uilian's Stats" ><img>
+ <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=WillianBL99&theme=tokyonight" alt="Paulo Uilian's Stats" ><img><br/>
  [![wakatime](https://wakatime.com/badge/user/ea37d403-453f-4319-bd0c-77e54bb1318a.svg)](https://wakatime.com/@ea37d403-453f-4319-bd0c-77e54bb1318a)
 
 
@@ -46,7 +46,7 @@
 <a href="https://www.nginx.com/" target="_blank"><img src="./icons/nginx.png" alt="Nginx" width=40 height=40 />
 </a> <a href="https://www.cypress.io" target="_blank"> <img src="./icons/cypress.png" alt="Cypress" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="./icons/aws.png" alt="AWS" width="40" height="40"/> </a> <a href="https://www.heroku.com/" target="_blank"> <img src="./icons/heroku.png" alt="Heroku" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="./icons/git.png" alt="git" width="40" height="40"/> </a>
 </div>
-</detailsa>
+</details>
 
 #
 <div align="start" padding-left="10px">
@@ -54,8 +54,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/paulo-uilian/" target="blank" title="Linkedin"><img align="center" src="./icons/linkedin.png" height="40" width="40" /></a>
 <a href="mailto:paulouiliandev@gmai.com" target="black" title="Email"><img align="center" src="./icons/email.png" height="40" width="40" /></a>
-
-
 </div>
 
  ### Here is a random joke that'll make you laugh!
