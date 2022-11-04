@@ -4,7 +4,7 @@
 <h3 align="start">Tenho 23 anos, moro em Jequié/BA e sou fascinado pelo desenvolvimento de lógica de programação.</h3>
 
 - 🚀 Desenvolvedor web full-stack pela [Driven Education](https://www.driven.com.br/).
-- 🎓 Graduando em Sistemas de Informação pela [Universidade Estadual do Sudoeste da Bahia](https://www.uesb.br/).
+- 🎓 Graduando em Sistemas de Informação pela [UESB](https://www.uesb.br/).
 - 📖 Atualmente estou estudando Next.js.
 - 🧙‍♂️ Aperfeiçoando meus conhecimentos em Node.js e Paterns.
 
