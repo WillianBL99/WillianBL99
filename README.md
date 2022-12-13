@@ -5,7 +5,7 @@
 
 - 🚀 Desenvolvedor web full-stack pela [Driven Education](https://www.driven.com.br/).
 - 🎓 Graduando em Sistemas de Informação pela [UESB](https://www.uesb.br/).
-- 📖 Atualmente estou estudando Next.js.
+- 📖 Atualmente estou estudando Nest.js.
 - 🧙‍♂️ Aperfeiçoando meus conhecimentos em Node.js e Paterns.
 
 
